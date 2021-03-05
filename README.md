@@ -13,6 +13,7 @@
 
 ## LOGO
 <img src="assets/images/fmax.png">
+https://farmerx.000webhostapp.com/
 
 ## Features
 
@@ -21,7 +22,6 @@
 * MSP
 * Login/SignUp
 * Maps
-
 
 ## Setup
 
@@ -43,7 +43,6 @@
 <img src="screenshot/map1.png" height="500px">
 <img src="screenshot/night.png" height="500px">
 <img src="screenshot/weather.png" height="500px">
-
 
 ## 🔆 Tech Stack
 
